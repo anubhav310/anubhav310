@@ -19,7 +19,7 @@
 - 🌱 Learning **SDLC, CI/CD, Cloud & System Design**
 - 👨‍💻 Portfolio: **https://turquoise-gerri-97.tiiny.site/**
 - 💬 Ask me about **Tech & New Business Ideas**
-- 📫 Email: **ANUBHAVSRIVASTAV310@GMAIL.COM**
+- 📫 Email: **anubhavsrivastav310@gmail.com**
 - 📄 Resume: [View Here](https://drive.google.com/file/d/1VvfO5WUimOU1K9cJjVl3wm3sXAHmUK0e/view)
 - ⚡ Fun fact: *Hackathons taught me more than full semesters*
 
@@ -77,32 +77,19 @@
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://twitter.com/anubhav srivastav" target="_blank">
-    <img src="https://img.shields.io/badge/X(Twitter)-Anubhav%20Srivastav-black?style=for-the-badge&logo=x"/>
-  </a>
-  <a href="https://www.linkedin.com/in/anubhav-srivastav7rce=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+  
+  <a href="https://www.linkedin.com/in/anubhav-srivastav-?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Anubhav%20Srivastav-blue?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="https://instagram.com/anubhav_srivastav._" target="_blank">
+  <a href="https://www.instagram.com/anubhav_srivastav._?igsh=eGtqYmY2NHhqd2ph" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-anubhav__srivastav._-black?style=for-the-badge&logo=instagram"/>
   </a>
 </p>
 
 ---
 
-## ☕ Support Me
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/anubhav-srivastav-">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200"/>
-  </a>
-  <a href="https://ko-fi.com/anubhav-srivastav-">
-    <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" width="200"/>
-  </a>
-</p>
-
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=120&section=footer"/>
 </p>
+****
