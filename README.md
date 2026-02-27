@@ -25,55 +25,6 @@
 
 ---
 
-## ⚡ Coding Mode (Live Feel – HTML Only)
-
-<p align="center">
-<svg width="900" height="120" viewBox="0 0 900 120" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="grad">
-      <stop offset="0%" stop-color="#39d353">
-        <animate attributeName="stop-color"
-          values="#39d353;#0e75b6;#39d353"
-          dur="6s"
-          repeatCount="indefinite"/>
-      </stop>
-      <stop offset="100%" stop-color="#161b22">
-        <animate attributeName="stop-color"
-          values="#161b22;#39d353;#161b22"
-          dur="6s"
-          repeatCount="indefinite"/>
-      </stop>
-    </linearGradient>
-  </defs>
-
-  <rect x="0" y="0" width="900" height="120" rx="18" fill="url(#grad)"/>
-
-  <text x="50%" y="45%" text-anchor="middle" fill="#ffffff"
-        font-size="26" font-family="Verdana">
-    <tspan>
-      💻 Currently:
-      <animate attributeName="textContent"
-        values="
-        Writing Clean Code;
-        Debugging Like a Detective;
-        Building Full Stack Apps;
-        Exploring New Tech;
-        Solving Real Problems
-        "
-        dur="10s"
-        repeatCount="indefinite"/>
-    </tspan>
-  </text>
-
-  <text x="50%" y="72%" text-anchor="middle" fill="#e6edf3"
-        font-size="14" font-family="Verdana">
-    Powered purely by README + SVG ✨
-  </text>
-</svg>
-</p>
-
----
-
 ## 🏆 GitHub Achievements
 
 <p align="center">
